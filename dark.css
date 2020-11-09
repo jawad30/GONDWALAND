@@ -164,7 +164,7 @@ global
     header nav ul {
       list-style: none;
       display: grid;
-      grid-template-columns: repeat(3, 1fr);
+      grid-template-columns: repeat(4, 1fr); /*Ajout colonne pour inclure le lien "mode sombre"*/
       padding: 0;
       margin: 0;
     }
